@@ -14,7 +14,7 @@ name                     : &name "Krithika Iyer"
 description              : &description "personal description"
 url                      : https://iyerkrithika21.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "iyerkrithika21/iyerkrithika21.github.io"
+repository               : "iyerkrithika21.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,11 +22,11 @@ repository               : "iyerkrithika21/iyerkrithika21.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Krithika Iyer"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Postdoctoral Research Fellow at Sheikh Zayed Institute for Pediatric Surgical Innovation"
   location         : "Washington D.C"
-  employer         : "Sheikh Zayed Institute for Pediatric Surgical Innovation at Children's National Hospital"
+  employer         : "Children's National Hospital"
   uri              : # URL
   email            : "krithika[dot]iyer[at]utah.edu" 
 
