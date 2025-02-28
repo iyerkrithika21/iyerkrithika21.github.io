@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Fellow at the **Sheikh Zayed Institute for Pediatric Surgical Innovation at Children's National Hospital in Washington, D.C. **I work in the Precision Medical Imaging Laboratory, where I am advised by **Dr. Marius George Linguraru**.
+I am a Postdoctoral Research Fellow at the **Sheikh Zayed Institute for Pediatric Surgical Innovation at Children's National Hospital in Washington, D.C.** I work in the Precision Medical Imaging Laboratory, where I am advised by **Dr. Marius George Linguraru**.
 
 I earned my Ph.D. from the **Scientific Computing and Imaging Institute at the University of Utah**, under the mentorship of **Dr. Shireen Elhabian**. I hold a Bachelor of Engineering from **Maharashtra Institute of Technology, University of Pune**, and have industry experience as an Associate System Engineer at **IBM Global Business Services**.
 
