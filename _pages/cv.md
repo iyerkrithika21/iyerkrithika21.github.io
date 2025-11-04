@@ -58,7 +58,5 @@ Programming: Python, MATLAB, R, C, JavaScript
 Packages: TensorFlow, PyTorch, PyTorch3D, PyTorch Geometric, NumPy, SciPy, scikit-learn, Pandas  
 Visualization: ParaView, VTK, ITK, PyVista
 
-## Teaching Experience
 
-- Graduate TA: Advanced Image Processing (2024), Image Analysis Seminar (2022), Computer Graphics (2019), Applied ML (2018), Image Processing (2021), Digital Communication (2015)
 
