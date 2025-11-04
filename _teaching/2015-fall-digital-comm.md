@@ -8,18 +8,18 @@ date: 2015-08-01
 location: "Pune, India"
 ---
 
-Teaching Assistant for Digital Communication
+## Teaching Assistant for Digital Communication
 ======
 
-Delivered core lecture about mathematical concepts of digital communication, managed lab sessions, and graded assignments.
+- Delivered core lecture about mathematical concepts of digital communication, managed lab sessions, and graded assignments.
 
-Course Highlights
+## Course Highlights
 ======
 
 - Signal processing fundamentals
 - Analog-to-digital conversion
 
-Mentorship Outcomes
+## Mentorship Outcomes
 ======
 
 - Supported student success in coursework
