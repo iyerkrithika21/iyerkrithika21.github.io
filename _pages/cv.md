@@ -11,7 +11,7 @@ redirect_from:
 
 # Krithika Iyer
 
-**Contact:** firstname [dot] lastname [at] utah [dot] edu
+**Contact:**  k[lastname] [at] cnmc [dot] org
 **Google Scholar:** [link](https://www.sci.utah.edu/~iyerkrithika)  
 **GitHub:** [link](https://github.com/iyerkrithika21)
 
