@@ -37,14 +37,15 @@ Statistical Shape Modeling; Probabilistic Modeling; Deep Learning; Medical Image
 
 ## Leadership
 
-- Organizer, MICCAI LISA 2025 Challenge
+- Organizer, LISA 2025-2026 Challenge @ MICCAI
 - President/Chair, GradSWE, University of Utah (2021–2023)
 
 ## Academic Service
 
-Conference Reviewer: MICCAI (2023–2025), MIUA (2024), IPMI (2025), MIDL (2025)  
+Conference Reviewer: MICCAI (2023–2026), MIUA (2024), IPMI (2025), MIDL (2025), ISBI (2026)
 Journal Reviewer: IEEE Trans. Med. Imaging (2024), WIREs Data Mining & Knowledge Discovery (2024), IEEE Trans. Circuits Syst. Video Tech. (2023)  
 Community Judge, University of Utah Science & Engineering Fair (2022)
+Session Chair: ISBI (2026)
 
 ## Awards
 
@@ -52,11 +53,6 @@ Community Judge, University of Utah Science & Engineering Fair (2022)
 - Manager’s Choice Award, IBM (2016)
 - High Academic Performance, Univ. Pune (2015)
 
-## Skills
-
-Programming: Python, MATLAB, R, C, JavaScript  
-Packages: TensorFlow, PyTorch, PyTorch3D, PyTorch Geometric, NumPy, SciPy, scikit-learn, Pandas  
-Visualization: ParaView, VTK, ITK, PyVista
 
 
 
