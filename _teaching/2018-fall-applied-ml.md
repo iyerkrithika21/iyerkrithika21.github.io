@@ -9,19 +9,13 @@ location: "Salt Lake City, UT, USA"
 ---
 
 Graduate Teaching Assistant for Applied Machine Learning
-======
-
 - Supported instruction on core ML models, real-world datasets, and algorithm assessment. 
 - Delivered lectures on foundational and applied machine learning topics, and assisted students with project design and coding.​
 
 Course Modules Supported
-======
-
 - Supervised and unsupervised learning
 - Model validation and deployment
 
 Key Experience
-======
-
 - Hands-on lab setup
 - Debugging and mentoring for student team projects
