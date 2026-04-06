@@ -9,15 +9,6 @@ location: "Salt Lake City, UT, USA"
 ---
 
 Image Analysis Seminar – Graduate Teaching Assistant
-======
-
-Organized journal club discussions, mentored student research presentations, and guided reading assignments in advanced topics.
-
-Topics Covered
-======
+- Organized journal club discussions, mentored student research presentations, and guided reading assignments in advanced topics.
 - Interdisciplinary approaches to image-based research
 
-Active Learning
-======
-
-- Encouraged critical discussion and peer feedback
