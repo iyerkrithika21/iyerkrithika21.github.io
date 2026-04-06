@@ -9,19 +9,13 @@ location: "Salt Lake City, UT, USA"
 ---
 
 Graduate Mentorship in Image Processing
-======
-
-Supervised and mentored graduate students working on image processing projects, with particular emphasis on mathematical topics, denoising, and segmentation. Delivered the full course module on Fourier analysis, providing comprehensive lectures (with video recordings archived for student reference).
+- Supervised and mentored graduate students working on image processing projects, with particular emphasis on mathematical topics, denoising, and segmentation.
+- Delivered the full course module on Fourier analysis, providing comprehensive lectures (with video recordings archived for student reference).
+- Fostered research independence and technical mastery in advanced imaging topics
+- Received positive student feedback on clarity and depth of Fourier analysis instruction
 
 Mentorship & Teaching Focus
-======
-
 - Guided research projects and reproducible experiments
 - Taught foundational concepts and applications of Fourier analysis
 - Supported interdisciplinary team collaborations
 
-Outcomes
-======
-
-- Fostered research independence and technical mastery in advanced imaging topics
-- Received positive student feedback on clarity and depth of Fourier analysis instruction
