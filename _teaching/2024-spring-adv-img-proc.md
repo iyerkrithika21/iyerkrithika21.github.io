@@ -11,8 +11,8 @@ location: "Salt Lake City, UT, USA"
 Graduate Teaching Assistant for Advanced Image Processing
 - Responsibilities included leading review sessions, developing problem sets, facilitating student projects, and assisting with course and project grading.  
 - Worked closely with faculty to deliver modules on the latest medical image analysis deep learning models.
-
-Core Concepts Taught
 - Deep learning for image analysis
+
+
 
 
