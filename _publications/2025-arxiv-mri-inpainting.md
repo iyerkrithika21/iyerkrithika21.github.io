@@ -10,3 +10,5 @@ citation: 'N. Kulkarni, K. Iyer, A. Tapp, A. Parida, D. Capellán-Martín, Z. Ji
 ---
 
 [Related proceedings publication](https://doi.org/10.1007/978-3-032-16370-7_13).
+
+Presented as a **workshop talk at BraTS 2025**, held in conjunction with MICCAI 2025 in Daejeon, South Korea. [Presentation details]({{ "/talks/2025-09-23-brats-inpainting" | relative_url }}).

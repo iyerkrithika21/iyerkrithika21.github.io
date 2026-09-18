@@ -46,6 +46,14 @@ See my [publications]({{ "/publications/" | relative_url }}) for papers and prep
 - **Invited talk, Virginia Tech–Children’s National AI for Pediatric Health Symposium** — AI-enhanced portable pediatric MRI, jointly with Austin Tapp, Alexandria, Virginia, May 28, 2026. [Details]({{ "/talks/2026-05-28-vt-cnh-pediatric-ai" | relative_url }}).
 - **Oral presentation, ISMRM 2026** — AI-enhanced ultra-low-field MRI for neonatal neuroimaging, Cape Town, South Africa, May 11, 2026.
 - **Oral presentation, ISBI 2026** — MRI-to-CT synthesis with cranial suture segmentation, London, United Kingdom, April 10, 2026.
+- **Workshop talk, BraTS 2025 at MICCAI** — Post-Processing Methods for Improving Accuracy in MRI Inpainting, Daejeon, South Korea, September 23, 2025. [Details]({{ "/talks/2025-09-23-brats-inpainting" | relative_url }}).
+- **Oral presentation, MIUA 2024** — SCorP, Manchester, United Kingdom, July 24, 2024. Best Paper Award in Medical Images and Computational Models. [Details]({{ "/talks/2024-07-24-miua-scorp" | relative_url }}).
+
+### Poster Presentations
+
+- **MLMI 2024:** [Probabilistic 3D Correspondence Prediction from Sparse Unsegmented Images]({{ "/publication/2024-mlmi-3dcorrespondence" | relative_url }}). Poster presentation at the Machine Learning in Medical Imaging workshop at MICCAI.
+- **MICCAI 2023:** [Mesh2SSM: From Surface Meshes to Statistical Shape Models of Anatomy]({{ "/publication/2023-miccai-mesh2ssm" | relative_url }}). Poster presentation.
+- **University of Utah Undergraduate Research Symposium:** Poster presentation introducing the lab’s research to undergraduate students.
 
 ## Leadership
 
@@ -53,6 +61,9 @@ See my [publications]({{ "/publications/" | relative_url }}) for papers and prep
 - President/Chair, GradSWE, University of Utah (2021–2023)
 
 ## Academic Service
+
+- **Senior Program Committee Member, AAAI 2027 AI Alignment Track**. [Committee](https://openreview.net/group?id=AAAI.org/2027/AI_Alignment_Track/Senior_Program_Committee)
+- **Organizing Committee Member, AFRICAI 2026**, MICCAI Special Interest Group on African Medical Imaging AI workshop. [Organizing committee](https://africai.org/africai-2026/)
 
 Conference Reviewer: MICCAI (2023–2026), MIUA (2024), IPMI (2025), MIDL (2025), ISBI (2026)
 Journal Reviewer: IEEE Trans. Med. Imaging (2024), WIREs Data Mining & Knowledge Discovery (2024), IEEE Trans. Circuits Syst. Video Tech. (2023)  
