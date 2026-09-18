@@ -8,6 +8,6 @@ date: 2026-04-21
 location: "Washington, DC"
 ---
 
-Spotlight presentation at the Research & Innovation Mixer recognizing REI Week abstract awardees, presenting work on using ultra-low-field MRI brain volumetry to predict early cognitive risk in low-resource settings.[web:14] The talk highlights scalable, low-cost neuroimaging biomarkers for developmental screening and the potential of AI-enabled portable MRI to expand access to pediatric brain health assessment globally. 
+Spotlight presentation at the Research & Innovation Mixer recognizing REI Week abstract awardees, presenting work on using ultra-low-field MRI brain volumetry to predict early cognitive risk in low-resource settings. The talk highlights scalable, low-cost neuroimaging biomarkers for developmental screening and the potential of AI-enabled portable MRI to expand access to pediatric brain health assessment globally. 
 
 [More information here](https://research.childrensnational.org/news-and-events/research-and-innovation-mixer-celebrates-emerging-leaders-in-pediatric-science)
