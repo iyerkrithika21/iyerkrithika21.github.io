@@ -43,6 +43,7 @@ See my [publications]({{ "/publications/" | relative_url }}) for papers and prep
 ### Selected Presentations
 
 - **Invited keynote, ShapeMI at MICCAI 2026** — Strasbourg, France, September 27, 2026 (upcoming).
+- **Invited talk, Virginia Tech–Children’s National AI for Pediatric Health Symposium** — AI-enhanced portable pediatric MRI, jointly with Austin Tapp, Alexandria, Virginia, May 28, 2026. [Details]({{ "/talks/2026-05-28-vt-cnh-pediatric-ai" | relative_url }}).
 - **Oral presentation, ISMRM 2026** — AI-enhanced ultra-low-field MRI for neonatal neuroimaging, Cape Town, South Africa, May 11, 2026.
 - **Oral presentation, ISBI 2026** — MRI-to-CT synthesis with cranial suture segmentation, London, United Kingdom, April 10, 2026.
 
