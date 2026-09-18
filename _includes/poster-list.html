@@ -1,0 +1,16 @@
+<ul class="poster-list">
+  {% for poster in site.data.posters %}
+  <li>
+    <p><strong>{{ poster.venue | escape }}</strong><br>
+      {% if poster.url %}
+        {% assign poster_url = poster.url %}
+        {% unless poster_url contains '://' %}{% assign poster_url = poster_url | relative_url %}{% endunless %}
+        <a href="{{ poster_url }}">{{ poster.title | escape }}</a><br>
+      {% else %}
+        {{ poster.title | escape }}<br>
+      {% endif %}
+      {{ poster.details | escape }}
+    </p>
+  </li>
+  {% endfor %}
+</ul>

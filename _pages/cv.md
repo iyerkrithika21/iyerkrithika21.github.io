@@ -51,9 +51,7 @@ See my [publications]({{ "/publications/" | relative_url }}) for papers and prep
 
 ### Poster Presentations
 
-- **MLMI 2024:** [Probabilistic 3D Correspondence Prediction from Sparse Unsegmented Images]({{ "/publication/2024-mlmi-3dcorrespondence" | relative_url }}). Poster presentation at the Machine Learning in Medical Imaging workshop at MICCAI.
-- **MICCAI 2023:** [Mesh2SSM: From Surface Meshes to Statistical Shape Models of Anatomy]({{ "/publication/2023-miccai-mesh2ssm" | relative_url }}). Poster presentation.
-- **University of Utah Undergraduate Research Symposium:** Poster presentation introducing the lab’s research to undergraduate students.
+{% include poster-list.html %}
 
 ## Leadership
 
@@ -62,13 +60,29 @@ See my [publications]({{ "/publications/" | relative_url }}) for papers and prep
 
 ## Academic Service
 
-- **Senior Program Committee Member, AAAI 2027 AI Alignment Track**. [Committee](https://openreview.net/group?id=AAAI.org/2027/AI_Alignment_Track/Senior_Program_Committee)
-- **Organizing Committee Member, AFRICAI 2026**, MICCAI Special Interest Group on African Medical Imaging AI workshop. [Organizing committee](https://africai.org/africai-2026/)
+### Committees and Conference Service
 
-Conference Reviewer: MICCAI (2023–2026), MIUA (2024), IPMI (2025), MIDL (2025), ISBI (2026)
-Journal Reviewer: IEEE Trans. Med. Imaging (2024), WIREs Data Mining & Knowledge Discovery (2024), IEEE Trans. Circuits Syst. Video Tech. (2023)  
-Community Judge, University of Utah Science & Engineering Fair (2022)
-Session Chair: ISBI (2026)
+- **Senior Program Committee Member:** [AAAI 2027 AI Alignment Track](https://openreview.net/group?id=AAAI.org/2027/AI_Alignment_Track/Senior_Program_Committee).
+- **Organizing Committee Member:** [AFRICAI 2026](https://africai.org/africai-2026/), MICCAI Special Interest Group on African Medical Imaging AI workshop.
+- **Session Chair:** ISBI (2026).
+
+### Conference Reviewing
+
+- MICCAI (2023–2026)
+- ISBI (2026)
+- IPMI (2025)
+- MIDL (2025)
+- MIUA (2024)
+
+### Journal Reviewing
+
+- IEEE Transactions on Medical Imaging (2024)
+- WIREs Data Mining and Knowledge Discovery (2024)
+- IEEE Transactions on Circuits and Systems for Video Technology (2023)
+
+### Community Service
+
+- **Judge:** University of Utah Science & Engineering Fair (2022).
 
 ## Awards
 
@@ -76,7 +90,3 @@ Session Chair: ISBI (2026)
 - Best Paper, MIUA 2024
 - Manager’s Choice Award, IBM (2016)
 - High Academic Performance, Univ. Pune (2015)
-
-
-
-
