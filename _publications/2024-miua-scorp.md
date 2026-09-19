@@ -10,3 +10,5 @@ citation: 'K. Iyer, J. Adams, S.Y. Elhabian (2024). "SCorP: Statistics-informed 
 ---
 
 **Oral presentation at MIUA 2024**, July 24, 2024, Manchester, United Kingdom. **Best Paper Award, Medical Images and Computational Models.** [Presentation details]({{ "/talks/2024-07-24-miua-scorp" | relative_url }}).
+
+[Watch the MIUA 2024 presentation](https://youtu.be/rC-lLwBazq0).

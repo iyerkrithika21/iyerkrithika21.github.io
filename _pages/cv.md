@@ -53,18 +53,28 @@ See my [publications]({{ "/publications/" | relative_url }}) for papers and prep
 
 {% include poster-list.html %}
 
+## Research Software
+
+- **[Mesh2SSM++](https://github.com/iyerkrithika21/Mesh2SSMJournal):** Public implementation of probabilistic, unsupervised statistical shape modeling from anatomical surface meshes.
+- **[LEDA and MORPH-LER](https://github.com/iyerkrithika21/MORPH_LER):** Research code for statistical analysis of anatomical deformations and population-aware image registration.
+- **[ShapeWorks](https://sciinstitute.github.io/ShapeWorks/latest/about/team.html):** Contributed to the open-source platform for statistical shape modeling and analysis during my doctoral research.
+
 ## Leadership
 
-- **Organizer, LISA Challenge at MICCAI (2025–2026)**. [LISA 2026 challenge website](https://www.synapse.org/Synapse:syn72118611/wiki/)
+- **Organizer, LISA Challenge at MICCAI (2025–2026)**. [LISA 2026 challenge website](https://www.synapse.org/Synapse:syn72118611/wiki/) · [Co-authored challenge description](https://zenodo.org/records/19714596)
 - President/Chair, GradSWE, University of Utah (2021–2023)
 
 ## Academic Service
 
 ### Committees and Conference Service
 
-- **Senior Program Committee Member:** [AAAI 2027 AI Alignment Track](https://openreview.net/group?id=AAAI.org/2027/AI_Alignment_Track/Senior_Program_Committee).
+- **Senior Program Committee Member:** AAAI 2027 AI Alignment Track.
 - **Organizing Committee Member:** [AFRICAI 2026](https://africai.org/africai-2026/), MICCAI Special Interest Group on African Medical Imaging AI workshop.
 - **Session Chair:** ISBI (2026).
+
+### Editorial Service
+
+- **Proceedings Editor:** LISA 2026 proceedings (not yet published).
 
 ### Conference Reviewing
 
@@ -76,7 +86,8 @@ See my [publications]({{ "/publications/" | relative_url }}) for papers and prep
 
 ### Journal Reviewing
 
-- IEEE Transactions on Medical Imaging (2024)
+- IEEE Transactions on Medical Imaging (TMI), 2024–present
+- Medical Image Analysis (MedIA), 2026–present
 - WIREs Data Mining and Knowledge Discovery (2024)
 - IEEE Transactions on Circuits and Systems for Video Technology (2023)
 

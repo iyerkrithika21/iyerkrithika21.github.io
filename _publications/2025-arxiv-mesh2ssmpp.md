@@ -1,4 +1,3 @@
-
 ---
 title: "Mesh2SSM++: A Probabilistic Framework for Unsupervised Learning of Statistical Shape Model of Anatomies from Surface Meshes"
 collection: publications
@@ -9,3 +8,5 @@ venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2502.07145'
 citation: 'K. Iyer, M.S.T. Karanam, S. Elhabian (2025). "Mesh2SSM++: A Probabilistic Framework for Unsupervised Learning of Statistical Shape Model of Anatomies from Surface Meshes." <i>arXiv</i>:2502.07145.'
 ---
+
+[Research code on GitHub](https://github.com/iyerkrithika21/Mesh2SSMJournal).
